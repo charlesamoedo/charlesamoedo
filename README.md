@@ -1,110 +1,76 @@
 # 👋 Charles Amoêdo
 
-### 🔗 SAP Integration Specialist • SAP Business One • APIs • Automação • IA Assistida
+### 🔗 SAP Integration Specialist • SAP Business One • APIs • Automação • IA Dev
 
-💼 +10 anos em consultoria SAP e integração de sistemas
-🔧 Especialista em SAP B1, Service Layer e arquiteturas de integração
-🤖 Desenvolvimento assistido por IA e engenharia de contexto
-📦 Projetos PJ e Freelance
-
----
-
-## 🚀 Sobre
-
-Atuo com integrações entre SAP Business One, SAP S/4HANA e outros sistemas, construindo soluções seguras, escaláveis e orientadas a processo.
-
-Trabalho com APIs, Service Layer, automação (RPA) e desenho de integrações genéricas parametrizáveis. Também aplico IA no ciclo de desenvolvimento para acelerar código, testes e documentação técnica.
+![SAP B1](https://img.shields.io/badge/SAP%20Business%20One-0FAAFF?style=for-the-badge)
+![Integrações](https://img.shields.io/badge/System%20Integration-222222?style=for-the-badge)
+![Service Layer](https://img.shields.io/badge/Service%20Layer-5C2D91?style=for-the-badge)
+![APIs](https://img.shields.io/badge/APIs-00C853?style=for-the-badge)
+![RPA](https://img.shields.io/badge/RPA-FF6F00?style=for-the-badge)
+![AI Dev](https://img.shields.io/badge/AI%20Assisted%20Development-FF4081?style=for-the-badge)
 
 ---
 
-## 🧠 IA no meu fluxo de desenvolvimento
+## 🇧🇷 Sobre mim
 
-* LLM assisted development
-* Engenharia de contexto
-* Vibe coding técnico
-* PRD e requisitos gerados com IA
-* VS Code + IA
-* Replit + IA
-* Codex / Claude / ChatGPT
+Consultor com +10 anos em SAP e integrações de sistemas, especialista em **SAP Business One**, Service Layer e arquiteturas de integração entre ERPs.
+
+Atuo com APIs, automação, RPA e desenho de integrações parametrizáveis. Utilizo IA e LLMs no ciclo de desenvolvimento para acelerar código, testes e documentação técnica (MVP, PRD, RF).
+
+📌 Disponível para projetos PJ e Freelance.
 
 ---
 
-## 🛠 Stack Principal
+## 🇺🇸 About me
 
-**SAP & ERP**
+SAP integration specialist with 10+ years of experience connecting SAP Business One, SAP S/4HANA and external systems through APIs and Service Layer.
 
-* SAP Business One
-* SAP S/4HANA
-* Service Layer
-* Integrações ERP
+Focused on integration architecture, automation and AI-assisted development workflows, including technical documentation and requirement modeling.
 
-**Integração**
-
-* APIs REST
-* WebServices
-* Arquitetura de integração
-* Mapeamento DE/PARA
-* Integração parametrizável
-
-**Dev**
-
-* C#
-* ABAP (debug e análise)
-* JavaScript
-* Automação / RPA
-
-**Banco**
-
-* SAP HANA
-* MS SQL Server
-* Oracle
+Available for contract and freelance projects.
 
 ---
 
-## 📌 Projetos
+## 🌐 Contato & Conteúdo
 
-### 🌡 Controle de Temperaturas
-
-Sistema de monitoramento com foco em rastreabilidade e confiabilidade de dados, preparado para integração com outros sistemas.
-
----
-
-### 🏢 Consulta CNPJ Public
-
-Consulta de dados públicos via API com tratamento de dados para uso em integrações cadastrais e fiscais.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charles%20Amoêdo-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charlesamoedo/)
+[![YouTube](https://img.shields.io/badge/YouTube-@charlesamoedo-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@charlesamoedo)
 
 ---
 
-## 📘 Especialidades Técnicas
+## 🛠 Tecnologias & Ferramentas
 
-* Integração SAP B1 via Service Layer
-* Automação de atualização de documentos SAP
-* Integração sem alteração de código-fonte (parametrização)
-* Estratégias de teste de integração
-* Documentação técnica (MVP, PRD, RF)
+[![Tech](https://skillicons.dev/icons?i=cs,dotnet,js,git,github,vscode,visualstudio)](https://skillicons.dev)
 
----
-
-## 🏅 Destaque
-
-🎖️ Especialista em SAP Business One
-🔗 Integrações complexas entre ERPs
-⚙️ Automação de processos
-🧠 IA aplicada ao desenvolvimento técnico
+**SAP & Dados**
+- SAP Business One
+- SAP S/4HANA
+- SAP Service Layer
+- SAP HANA
+- MS SQL Server
+- Oracle
 
 ---
 
-## 🌍 Idiomas
+## 📊 Estatísticas GitHub
 
-Português — Nativo
-Inglês — Leitura técnica
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charlesamoedo&show_icons=true&theme=default)
 
----
-
-## 🤝 Contato
-
-LinkedIn: [https://www.linkedin.com/in/charlesamoedo/](https://www.linkedin.com/in/charlesamoedo/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charlesamoedo&layout=compact)
 
 ---
 
-⭐ Repositórios fixados abaixo representam meus principais trabalhos de integração e automação.
+## 📌 Áreas de Atuação
+
+- Integrações SAP B1  
+- Arquitetura de integração  
+- APIs REST  
+- RPA  
+- Automação de processos  
+- Engenharia de contexto para IA  
+- AI-assisted coding  
+- Documentação técnica (PRD, MVP, RF)
+
+---
+
+⭐ Fixe nos destaques abaixo seus principais projetos de integração e automação SAP.
