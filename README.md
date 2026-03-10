@@ -17,7 +17,6 @@ Consultor com +10 anos em SAP e integrações de sistemas, especialista em **SAP
 
 Atuo com APIs, automação, RPA e desenho de integrações parametrizáveis. Utilizo IA e LLMs no ciclo de desenvolvimento para acelerar código, testes e documentação técnica (MVP, PRD, RF).
 
-📌 Disponível para projetos PJ e Freelance.
 
 ---
 
